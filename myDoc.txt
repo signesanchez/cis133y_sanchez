@@ -1,1 +1,2 @@
 Line 1:  Practice with Git!
+Line 2: Adding line 2
